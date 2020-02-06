@@ -9,11 +9,7 @@
 
 >  ##### This lab provides an opportunity to practice working with jQuery.
 >  ##### This lab is a deliverable.
-***
-
-### ***Screenshots***
-> ![Alt Text](url)
-> ![Alt Text](url)
+>  ##### Objective: Recreate a skills tracker based on [this](https://git.generalassemb.ly/SEI-CC/SEI-CC-7/blob/master/work/w02/d3/04-jquery-lab.md) example.
 ***
 
 ### ***Technologies Used***
@@ -23,33 +19,30 @@
 
 ### ***Getting Started***
 
->  ##### In this section include the link to your project and any instructions you deem important.
+>  ##### - Begin by typing your skill of choice into the input field, then click "Add Skill". 
+> ##### - If a skill needs to be removed, simply click the red "X" next to the skill.
+> ##### - The project can be viewed [here](https://mlackey9601.github.io/my-dev-skills-lab/).
 ***
 
 ### ***User Experience***
 
 >  #### User Story #1
->  ##### A brief description of someone and why they would engage with this project.
+>  ##### A user is keeping track of skills they have gained throughout a recent course.  They can log them into this tracker to reference later when building a resume.
 >  #### User Story #2
->  ##### A brief description of someone and why they would engage with this project.
+>  ##### A user has forgotten the skills learned from a course they took long ago.  They can return to this tracker, update any skills, and remove any they no longer feel confident in.
 >  #### Minimum Viable Product
->  ##### * As a user, ...
->  ##### * As a user, ...
->  ##### * As a user, ...
+>  ##### - As a user, I should be able to easily enter new skills and add them to the list.
+>  ##### - As a user, I should be able to remove any skills that I no longer have.
 ***
 
 ### ***Next Steps***
 
->  ##### * Planned future enhancements (icebox items)
->  ##### * This is the section for your "want list"
->  ##### * ~~Strikethrough items once you've updated the project~~
+>  ##### - Save users previous lists of skills so that users can start from where they last left off
+>  ##### - ~~Have the input field clear after each entry is added~~
+> ##### - ~~Match example font colors and styling~~
 ***
 
 ### ***Credits***
 
-> ##### Credit: url
->
-> ##### Credit: url
->  
-> ##### Credit: url
+> ##### None
 ***
