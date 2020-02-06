@@ -1,13 +1,14 @@
-# **Project Title**
+# **jQuery Skills Lab**
 
-### Date: 1/1/2020
+### Date: 2/5/2020
 
 #### By: Michael Lackey
 ***
 
 ### ***Description***
 
->  ##### A brief description of the project.
+>  ##### This lab provides an opportunity to practice working with jQuery.
+>  ##### This lab is a deliverable.
 ***
 
 ### ***Screenshots***
@@ -17,7 +18,7 @@
 
 ### ***Technologies Used***
 
->  ##### List of the technologies used, e.g., JavaScript, HTML, CSS...
+>  ##### JavaScript, HTML, CSS, jQuery
 ***
 
 ### ***Getting Started***
